@@ -1,0 +1,4 @@
+Task,Dataset,Algorithm,Primary Metric,Score
+Clustering,Mall_Customers.csv,K-Means (k=5),Silhouette Score,0.5546571631111091
+Classification,Social_Network_Ads.csv,Logistic Regression,Accuracy,0.8125
+Boosting,insurance_pre.csv,Gradient Boosting Regressor,R2 Score,0.8783630615069484
